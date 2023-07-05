@@ -14,8 +14,8 @@ body{
 }
 
 .card{
-    width: 125px;
-    height: 125px;
+    width: 100px;
+    height: 100px;
     position: relative;
 
     -webkit-transform-style: preserve-3d;
@@ -27,8 +27,8 @@ body{
 
 .card_back,
 .card_front{
-    width: 90%;
-    height: 90%;
+    width: 80%;
+    height: 80%;
     position: absolute;
     display: flex;
     justify-content: center;
