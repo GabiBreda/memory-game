@@ -14,8 +14,8 @@ body{
 }
 
 .card{
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
     position: relative;
 
     -webkit-transform-style: preserve-3d;
