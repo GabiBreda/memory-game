@@ -87,14 +87,14 @@ body{
 }
 
 #gameBoard{
-    max-width: 700px;
+    max-width: 600px;
     display: grid;
     grid-template:1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
     gap:20px;
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 600px) {
     .game-board{
-        max-width: 400px;
+        max-width: 3500px;
 
         grid-template: 1fr 1fr 1fr 1fr 1fr  / 1fr 1fr 1fr 1fr;
         gap: 20px;
